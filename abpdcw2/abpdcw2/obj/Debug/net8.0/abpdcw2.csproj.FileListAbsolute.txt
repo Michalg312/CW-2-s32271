@@ -1,0 +1,14 @@
+C:\Users\mgrzy\Desktop\abpdcw2\abpdcw2\bin\Debug\net8.0\abpdcw2.exe
+C:\Users\mgrzy\Desktop\abpdcw2\abpdcw2\bin\Debug\net8.0\abpdcw2.deps.json
+C:\Users\mgrzy\Desktop\abpdcw2\abpdcw2\bin\Debug\net8.0\abpdcw2.runtimeconfig.json
+C:\Users\mgrzy\Desktop\abpdcw2\abpdcw2\bin\Debug\net8.0\abpdcw2.dll
+C:\Users\mgrzy\Desktop\abpdcw2\abpdcw2\bin\Debug\net8.0\abpdcw2.pdb
+C:\Users\mgrzy\Desktop\abpdcw2\abpdcw2\obj\Debug\net8.0\abpdcw2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgrzy\Desktop\abpdcw2\abpdcw2\obj\Debug\net8.0\abpdcw2.AssemblyInfoInputs.cache
+C:\Users\mgrzy\Desktop\abpdcw2\abpdcw2\obj\Debug\net8.0\abpdcw2.AssemblyInfo.cs
+C:\Users\mgrzy\Desktop\abpdcw2\abpdcw2\obj\Debug\net8.0\abpdcw2.csproj.CoreCompileInputs.cache
+C:\Users\mgrzy\Desktop\abpdcw2\abpdcw2\obj\Debug\net8.0\abpdcw2.dll
+C:\Users\mgrzy\Desktop\abpdcw2\abpdcw2\obj\Debug\net8.0\refint\abpdcw2.dll
+C:\Users\mgrzy\Desktop\abpdcw2\abpdcw2\obj\Debug\net8.0\abpdcw2.pdb
+C:\Users\mgrzy\Desktop\abpdcw2\abpdcw2\obj\Debug\net8.0\abpdcw2.genruntimeconfig.cache
+C:\Users\mgrzy\Desktop\abpdcw2\abpdcw2\obj\Debug\net8.0\ref\abpdcw2.dll
